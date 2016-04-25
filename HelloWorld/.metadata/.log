@@ -1,0 +1,36 @@
+!SESSION 2013-10-11 01:56:18.816 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_33
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data C:\Users\Mathew\Dropbox\Libgdx\HelloWorld
+
+!ENTRY org.eclipse.ui 4 4 2013-10-11 02:02:13.157
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-10-11 02:02:14.181 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_33
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data C:\Users\Mathew\Dropbox\Libgdx\HelloWorld
+
+!ENTRY org.eclipse.ui 4 4 2013-10-11 02:04:33.271
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-10-11 02:04:34.245 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_33
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data C:\Users\Mathew\Dropbox\Libgdx\HelloWorld
+
+!ENTRY org.eclipse.ui 4 4 2013-10-11 02:04:55.133
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-10-11 02:05:39.740 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_33
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 4 4 2013-10-11 02:06:51.909
+!MESSAGE Invalid preference page path: XML Syntax
